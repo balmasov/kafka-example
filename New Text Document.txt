@@ -1,0 +1,4 @@
+bootstrap server: pkc-lzvrd.us-west4.gcp.confluent.cloud:9092
+
+key: AEQKNLCOCOI2J4UE
+Secret: 9WqxqgT2O1vG/Bow5WKdXcHCQQqaLFMU7h+uC/f03ER+l7OulousCMLpcI2lv2aD
